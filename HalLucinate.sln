@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HalLucinate", "src\HalLucinate\HalLucinate.csproj", "{063BDC74-729B-4E5E-85BD-075F73DBA965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalLucinate.UnitTests", "tests\HalLucinate.UnitTests\HalLucinate.UnitTests.csproj", "{EB4A9CE4-754E-4087-A31F-1ED313485F07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063BDC74-729B-4E5E-85BD-075F73DBA965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063BDC74-729B-4E5E-85BD-075F73DBA965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063BDC74-729B-4E5E-85BD-075F73DBA965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063BDC74-729B-4E5E-85BD-075F73DBA965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4A9CE4-754E-4087-A31F-1ED313485F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4A9CE4-754E-4087-A31F-1ED313485F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4A9CE4-754E-4087-A31F-1ED313485F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4A9CE4-754E-4087-A31F-1ED313485F07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648E492C-6AE4-4637-85D8-5413EC7A292D}
+	EndGlobalSection
+EndGlobal
